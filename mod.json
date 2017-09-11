@@ -1,0 +1,6 @@
+{
+  "name": "order-brief",
+  "version": "0.0.1",
+  "apiDependencies": ["order"]
+}
+
