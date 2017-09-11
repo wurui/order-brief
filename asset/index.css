@@ -1,3 +1,47 @@
-.oxmod-order-brief{
-/* CSS */
- }
+.oxmod-order-brief {
+  /* CSS */
+}
+.oxmod-order-brief .auto-wrapper {
+  max-width: 640px;
+  margin: 0 auto;
+}
+.oxmod-order-brief .error {
+  color: #f10;
+  text-align: center;
+}
+.oxmod-order-brief .orderwrap {
+  background-color: #eee;
+  box-shadow: 0 0 0px 2px rgba(200, 200, 200, 0.3);
+}
+.oxmod-order-brief .orderwrap > h3 {
+  margin: 0px;
+  padding: 10px;
+}
+.oxmod-order-brief .order-info {
+  width: 100%;
+}
+.oxmod-order-brief .order-info th,
+.oxmod-order-brief .order-info td {
+  color: #555;
+  padding: 5px 10px;
+  background-color: #eee;
+  border: none;
+  border-top: dashed .5px #fff;
+}
+.oxmod-order-brief .order-info th {
+  text-align: left;
+  font-weight: 300;
+}
+.oxmod-order-brief .order-info td {
+  text-align: right;
+}
+.oxmod-order-brief .price {
+  color: #f60;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+.oxmod-order-brief .price:before {
+  content: '\00a5\20';
+  font-family: sans-serif;
+  font-size: .8em;
+}

@@ -14,43 +14,43 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <order>
-        <title>
-            laptop
-        </title>
-        <detail>
-            good screen
-        </detail>
-        <tradeno>
-            powerful mobilephone
-        </tradeno>
-        <totalfee>
-            0.02
-        </totalfee>
-        <time>
-            light-weight car
-        </time>
-        <totalcount>
-            36
-        </totalcount>
-        <status>
-            strong notebook
-        </status>
-        <seller>
-            car
-        </seller>
-        <buyer>
-            laptop
-        </buyer>
-        <delivery>
-            screen
-        </delivery>
-        <deliveryfee>
-            6.24
-        </deliveryfee>
-        <paymethod>
-            good car
-        </paymethod>
-    </order>
+        <order>
+            <title>
+                laptop
+            </title>
+            <detail>
+                good screen
+            </detail>
+            <tradeno>
+                powerful mobilephone
+            </tradeno>
+            <totalfee>
+                0.02
+            </totalfee>
+            <time>
+                light-weight car
+            </time>
+            <totalcount>
+                36
+            </totalcount>
+            <status>
+                strong notebook
+            </status>
+            <seller>
+                car
+            </seller>
+            <buyer>
+                laptop
+            </buyer>
+            <delivery>
+                screen
+            </delivery>
+            <deliveryfee>
+                6.24
+            </deliveryfee>
+            <paymethod>
+                good car
+            </paymethod>
+        </order>
     </data>
 </root>
